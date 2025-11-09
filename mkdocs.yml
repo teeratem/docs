@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Maholan Kubernetes
 nav:
   - Home: index.md
 docs_dir: docs
