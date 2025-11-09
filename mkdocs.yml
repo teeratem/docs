@@ -4,4 +4,4 @@ nav:
 docs_dir: docs
 
 theme:
-  name: gitbook
+  name: material
