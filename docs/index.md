@@ -6,3 +6,5 @@ def hello():
     print("hello, world!")
 ```
 ```
+kubectl get pods <>
+```
