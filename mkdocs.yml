@@ -3,3 +3,5 @@ nav:
   - Home: docs/index.md
 docs_dir: docs
 
+theme:
+  name: material
