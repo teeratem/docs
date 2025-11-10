@@ -1,4 +1,4 @@
-site_name: Maholan Kubernetes
+site_name: Teerapat Document
 nav:
   - Home: index.md
   - Airflow:
