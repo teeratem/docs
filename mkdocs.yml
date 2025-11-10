@@ -1,6 +1,6 @@
-site_name: My Docs
+site_name: Maholan Kubernetes
 nav:
-  - Home: docs/index.md
+  - Home: index.md
 docs_dir: docs
 
 theme:
