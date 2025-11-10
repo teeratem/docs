@@ -2,9 +2,8 @@
 จะทยอยอัปเดตเรื่อยๆเมื่อเนื้อหาถูกต้อง 
 
 ```
-def hello():
-    print("hello, world!")
+kubectl get namespace
 ```
 ```
-kubectl get pods <>
+kubectl get pods <> -n <> -o wide
 ```
