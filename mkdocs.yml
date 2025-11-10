@@ -1,6 +1,16 @@
 site_name: Maholan Kubernetes
 nav:
   - Home: index.md
+  - Airflow:
+      - Configuration: airflow/configuration.md
+  - Longhorn:
+      - Configuration: longhorn/longhorn.md
+  - Helm:
+      - Configuration: helm/configuration.md
+  - Kubernetes:
+      - Configuration: kubernetes/kubernetes.md
+  - Installation:
+      - Configuration: installation/install.md
 docs_dir: docs
 
 theme:
