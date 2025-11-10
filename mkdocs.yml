@@ -11,6 +11,12 @@ nav:
       - Configuration: kubernetes/kubernetes.md
   - Installation:
       - Configuration: installation/install.md
+  - Docker:
+      - Configuration: docker/docker.md
+  - CI/CD:
+      - Configuration: cicd/cicd.md
+  - Cloudera:
+      - Configuration: cloudera/cloudera.md
 docs_dir: docs
 
 theme:
