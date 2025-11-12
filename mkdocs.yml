@@ -1,6 +1,9 @@
 site_name: Teerapat Document
 nav:
   - Home: index.md
+  - Linux:
+      - Command: linux/command.md
+      - Linux Achitecturre Command: linux/structure.md
   - Airflow:
       - install: airflow/install.md
       - Configuration: airflow/configuration.md
