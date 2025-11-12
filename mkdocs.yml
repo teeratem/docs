@@ -2,6 +2,7 @@ site_name: Teerapat Document
 nav:
   - Home: index.md
   - Airflow:
+      - install: airflow/install.md
       - Configuration: airflow/configuration.md
   - Longhorn:
       - Configuration: longhorn/longhorn.md
@@ -12,10 +13,11 @@ nav:
   - Installation:
       - Configuration: installation/install.md
   - Docker:
-      - Configuration: docker/docker.md
+      - How to use: docker/docker.md
   - CI/CD:
-      - Configuration: cicd/cicd.md
+      - Practice: cicd/cicd.md
   - Cloudera:
+      - install: cloudera/install.md
       - Configuration: cloudera/cloudera.md
 docs_dir: docs
 
